@@ -1,10 +1,4 @@
 #!/usr/bin/env python
-
-#Team 7, Yuzhe Shang & Gabriel Siegel
-#17:00, 05/01/2020
-#Code References:
-#https://github.com/William-Larsson/MRDS-Pure-Pursuit-Robot/blob/master/Main.py
-#https://github.com/c722996/RSS2017_Lab4/blob/master/pure_pursuit.py
 import rospy
 import numpy as np
 from geometry_msgs.msg import PoseStamped
