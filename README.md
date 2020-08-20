@@ -1,9 +1,7 @@
-# F1-10_Code
+# F1-10_Code(Algorthims):
 
 
 <br>
-<br>
-  Algorthims:
 
 <br>
 <br>
