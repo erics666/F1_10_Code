@@ -7,11 +7,11 @@
 
 <br>
 <br>
-    1.Wall_Follow
+      1.Wall_Follow
 <br>
 <br>
-    2.Pure_Pursuit
+       2.Pure_Pursuit
 <br>
 <br>
-    3.Gap_Follow
+       3.Gap_Follow
 <br>
