@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# team 7 Yuzhe Shang & Gabriel Siegel
 from __future__ import print_function
 import sys
 import math
