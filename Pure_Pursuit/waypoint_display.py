@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-#created by Xiyuan Zhu, Lehigh University, 4/15/2020
-# place thisin the waypoint_logger folder and run after waypoint_logger.py.
-# with simulator running, add the  topic in rviz.
-
 from __future__ import print_function
 import rospy
 
