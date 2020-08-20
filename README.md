@@ -1,11 +1,11 @@
 # F1-10_Code
-----------------------------------------<br>
-Algorthim:
+------------------------------------------------
+  Algorthims:
 <br>
 <br>
-  Wall_Follow
+    Wall_Follow
 <br>
-  Pure_Pursuit
+    Pure_Pursuit
 <br>
-  Gap_Follow
+    Gap_Follow
 <br>
